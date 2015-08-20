@@ -1,0 +1,28 @@
+{
+  "name": "nerf-dart",
+  "version": "1.0.0",
+  "description": "maps a URL to an identifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && nyc tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boennemann/nerf-dart.git"
+  },
+  "keywords": [
+    "url",
+    "identifier"
+  ],
+  "author": "Stephan Bönnemann <stephan@boennemann.me> (http://boennemann.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boennemann/nerf-dart/issues"
+  },
+  "homepage": "https://github.com/boennemann/nerf-dart#readme",
+  "devDependencies": {
+    "nyc": "^3.1.0",
+    "standard": "^5.1.0",
+    "tap": "^1.3.2"
+  }
+}
