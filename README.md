@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/boennemann/nerf-dart.svg?branch=master)](https://travis-ci.org/boennemann/nerf-dart)
 [![Coverage Status](https://coveralls.io/repos/boennemann/nerf-dart/badge.svg?branch=master&service=github)](https://coveralls.io/github/boennemann/nerf-dart?branch=master)
-[![Dependency Status](https://david-dm.org/boennemann/nerf-dart/next.svg)](https://david-dm.org/boennemann/nerf-dart/next)
-[![devDependency Status](https://david-dm.org/boennemann/nerf-dart/next/dev-status.svg)](https://david-dm.org/boennemann/nerf-dart/next#info=dependencies)
+[![Dependency Status](https://david-dm.org/boennemann/nerf-dart/master.svg)](https://david-dm.org/boennemann/nerf-dart/master)
+[![devDependency Status](https://david-dm.org/boennemann/nerf-dart/master/dev-status.svg)](https://david-dm.org/boennemann/nerf-dart/master#info=dependencies)
 
 > Maps a URL to an identifier.
 
