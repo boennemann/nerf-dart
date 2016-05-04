@@ -24,7 +24,7 @@
   "homepage": "https://github.com/boennemann/nerf-dart#readme",
   "devDependencies": {
     "coveralls": "^2.11.4",
-    "nyc": "^5.0.0",
+    "nyc": "^6.4.1",
     "semantic-release": "^4.1.0",
     "standard": "^7.0.1",
     "tap": "^5.4.3"
